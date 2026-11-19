@@ -1,0 +1,6 @@
+playwright>=1.40
+selenium>=4.15
+pandas>=2.0
+matplotlib>=3.6
+psycopg2-binary>=2.9
+pymongo>=4.6
